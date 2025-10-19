@@ -3,7 +3,7 @@
   
   <video
     title="Doğa Belgeseli"
-    src="https://www.youtube.com/watch?v=abc123XYZ"
+    src="https://www.youtube.com/watch?v=f0xEeMszr4M"
     type="youtube"
     desc="Muhteşem doğa görüntüleriyle dolu kısa bir belgesel."
     poster="https://img.youtube.com/vi/abc123XYZ/hqdefault.jpg" />
@@ -17,7 +17,7 @@
 
   <video
     title="Kick Canlı Oyun Yayını"
-    src="https://kick.com/examplechannel"
+    src="https://kick.com/Eray"
     type="kick"
     desc="Popüler yayıncıdan canlı oyun keyfi!"
     poster="https://cdn.site.com/poster/kick_channel.jpg" />
@@ -31,7 +31,7 @@
 
   <video
     title="Komedi Skeç"
-    src="https://www.youtube.com/watch?v=ZYX987def"
+    src="https://www.youtube.com/watch?v=1Jb-KHtB9HQ"
     type="youtube"
     desc="Gülmek garanti! Popüler komedi ekibinden yeni skeç."
     poster="https://img.youtube.com/vi/ZYX987def/hqdefault.jpg" />
