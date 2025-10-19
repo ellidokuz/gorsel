@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videolar>
+  
+  <video
+    title="Doğa Belgeseli"
+    src="https://www.youtube.com/watch?v=abc123XYZ"
+    type="youtube"
+    desc="Muhteşem doğa görüntüleriyle dolu kısa bir belgesel."
+    poster="https://img.youtube.com/vi/abc123XYZ/hqdefault.jpg" />
+
+  <video
+    title="Teknoloji Canlı Yayını"
+    src="https://www.twitch.tv/teknette"
+    type="twitch"
+    desc="Her hafta canlı olarak teknoloji sohbetleri."
+    poster="https://static-cdn.jtvnw.net/jtv_user_pictures/teknette-profile_image.png" />
+
+  <video
+    title="Kick Canlı Oyun Yayını"
+    src="https://kick.com/examplechannel"
+    type="kick"
+    desc="Popüler yayıncıdan canlı oyun keyfi!"
+    poster="https://cdn.site.com/poster/kick_channel.jpg" />
+
+  <video
+    title="Kısa Film: Geri Dönüş"
+    src="https://cdn.example.com/videos/shortfilm/playlist.m3u8"
+    type="m3u8"
+    desc="Duygusal kısa film — umut ve ikinci şans üzerine."
+    poster="https://cdn.example.com/poster/shortfilm.jpg" />
+
+  <video
+    title="Komedi Skeç"
+    src="https://www.youtube.com/watch?v=ZYX987def"
+    type="youtube"
+    desc="Gülmek garanti! Popüler komedi ekibinden yeni skeç."
+    poster="https://img.youtube.com/vi/ZYX987def/hqdefault.jpg" />
+
+</videolar>
