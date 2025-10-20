@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <videolar>
-  <video>
-    <id>1</id>
-    <baslik>Karnıyarık</baslik>
-    <dosya>videos/karniyarik.mp4</dosya>
-    <thumbnail>images/karniyarik.jpg</thumbnail>
-    <tarifDosyasi>tarifler/karniyarik.txt</tarifDosyasi>
-  </video>
-  <video>
-    <id>2</id>
-    <baslik>Tavuk Sote</baslik>
-    <dosya>videos/tavuksote.mp4</dosya>
-    <thumbnail>images/tavuksote.jpg</thumbnail>
-    <tarifDosyasi>tarifler/tavuksote.txt</tarifDosyasi>
-  </video>
+  <video
+    title="Karnıyarık"
+    src="https://www.youtube.com/watch?v=brvuUWDqXw8"
+    type="youtube"
+    genre="Ana Yemek"
+    desc="Kıymalı iç harcı ve kızarmış patlıcanlarıyla klasik Türk yemeği."
+    poster="images/karniyarik.jpg"
+    txt="tarifler/karniyarik.txt"
+  />
+
+  <video
+    title="Sütlaç"
+    src="https://www.youtube.com/watch?v=vCzTZP9hv5M"
+    type="youtube"
+    genre="Tatlı"
+    desc="Fırında üstü kızarmış nefis sütlaç tarifi."
+    poster="images/sutlac.jpg"
+    txt="tarifler/sutlac.txt"
+  />
 </videolar>
