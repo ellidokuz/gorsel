@@ -7,8 +7,8 @@
     genre="Ana Yemek"
     desc="Kıymalı iç harcı ve kızarmış patlıcanlarıyla klasik Türk yemeği."
     poster="images/karniyarik.jpg"
-    txt="tarifler/karniyarik.txt"
-  />
+    txt="tarifler/karniyarik.txt">
+  </video>
 
   <video
     title="Sütlaç"
@@ -17,6 +17,6 @@
     genre="Tatlı"
     desc="Fırında üstü kızarmış nefis sütlaç tarifi."
     poster="images/sutlac.jpg"
-    txt="tarifler/sutlac.txt"
-  />
+    txt="tarifler/sutlac.txt">
+  </video>
 </videolar>
