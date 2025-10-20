@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<videolar>
+  <video>
+    <id>1</id>
+    <baslik>Karnıyarık</baslik>
+    <dosya>videos/karniyarik.mp4</dosya>
+    <thumbnail>images/karniyarik.jpg</thumbnail>
+    <tarifDosyasi>tarifler/karniyarik.txt</tarifDosyasi>
+  </video>
+  <video>
+    <id>2</id>
+    <baslik>Tavuk Sote</baslik>
+    <dosya>videos/tavuksote.mp4</dosya>
+    <thumbnail>images/tavuksote.jpg</thumbnail>
+    <tarifDosyasi>tarifler/tavuksote.txt</tarifDosyasi>
+  </video>
+</videolar>
